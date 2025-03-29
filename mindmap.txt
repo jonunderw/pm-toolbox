@@ -1,0 +1,139 @@
+
+Product
+    Strategy & Vision
+        Roadmap Planning
+            Prioritization
+            Product Positioning 
+            & Marketing
+            Monetization & Pricing Model
+            Outcome Development
+            Frameworks & Methodology
+        Brand / Marketing Strategy
+            Brand Strategy
+            Go-to Market Strategies
+            Campaigns 
+        Research
+            Competitive Analysis
+            Market Fit Analysis
+            Regulatory Compliance
+            User Research
+            User Research
+    Product Management
+        Design & Development
+            User Centered Design
+                Problem Statements
+                User Personas
+                Empathy Mapping
+                Opportunity Mapping
+                Effort x Value Matrix
+                Rapid Prototyping 
+                & User Testing
+            User Experience
+            Data-Driven Iterations
+                A/B Testing
+                Canary Releases
+        Measure & Learn
+        Support
+        Reporting
+        Product Philosophies, Frameworks, & Methodologies
+    
+
+Engineering
+    Architecture
+        Cloud Architecture
+            Compute & Storage
+            Networking
+            Scalability & Availability
+            Security & Compliance
+            Cost Optimization
+            Micro-services vs Monoliths
+        Software Architecture
+            API Design
+            Data Management Strategies
+            Design Patterns
+    Development
+        Iteration Planning & Management
+            Capacity Planning
+            IPM / PreIPM
+            Development 
+            & Agile Frameworks
+        CI/CD
+        Testing
+            Acceptance Testing
+            Exploratory Testing
+            Performance & Stress Testing
+            Automated Testing
+                Integration Testing
+                Unit Testing
+                UI Testing
+        Deployment Management
+            DevOps
+        Performance 
+            Delivery
+            Quality
+            Value
+            Efficiency       
+    Engineering Philosophies, Frameworks, & Methodologies
+
+
+Operations
+    Product
+        Revenue Ops
+            Sales Enablement
+            Customer Lifetime Management
+            Revenue Forecasting
+            Marketing Automation
+        ProductOps
+            Roadmap Management
+            Stakeholder Management
+            Capacity Planning
+            User Onboarding & Training
+            Agile & Lean Methodologies
+            Retrospectives
+            Knowledge Management
+            & Documentation
+            SLA Management
+            Change Management
+            Backlog Management
+    Engineering
+        DevOps
+            Infrastructure as Code(IaC)
+            CI/CD
+            Code Quality & Source Code Management
+            Monitoring, Logging, & Observability
+            Site Reliability Engineering
+            DORA Metrics
+            DevSecOps
+                Identity Management (IAM)
+                Data Governance 
+                & Security
+                Incident Management
+                Disaster Recovery
+        Data Governance
+            Discoverability & Availability
+            Quality & Accessibility
+            Ownership & Stewardship
+        
+Experimentation
+    Productivity Gains
+        AI Agents
+        Automation
+        Collaboration 
+        Integrations
+    Technologies
+        IoT
+        Blockchain
+        Quantum Computing
+        AI
+            GenAI
+            Agentic AI
+            Vision AI
+        Systems Engineering
+    Operational Efficiencies
+        Process Improvements
+        Cost Savings
+        Task Turn Time
+    Product Driven
+        Feasibility Studies
+        Predictive Analytics
+        Market Expansions / Wallet Share Strategies
