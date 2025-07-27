@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Roadmap Lane CLI",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"bin/cli.js"
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}

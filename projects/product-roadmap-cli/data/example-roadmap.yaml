@@ -1,0 +1,134 @@
+milestones:
+  - name: "Q1 2025 - Foundation"
+    description: "Establish core platform capabilities"
+    outcomes:
+      - name: "Improve Signup Flow"
+        description: "Streamline user onboarding experience"
+        teams: ["UX", "Platform"]
+        priority: "high"
+        epics:
+          - name: "Auth Refactor"
+            description: "Modernize authentication system"
+            team: "Platform"
+            storyPoints: 21
+            features:
+              - name: "OAuth2 Support"
+                storyPoints: 8
+              - name: "Email Verification"
+                storyPoints: 5
+              - name: "Password Reset Flow"
+                storyPoints: 8
+          - name: "Redesign Signup Form"
+            description: "Create intuitive signup experience"
+            team: "UX"
+            storyPoints: 13
+            features:
+              - name: "Progressive Form Design"
+                storyPoints: 8
+              - name: "Social Login Integration"
+                storyPoints: 5
+      
+      - name: "Enhanced Analytics"
+        description: "Provide better insights for users"
+        teams: ["Data", "Frontend"]
+        priority: "medium"
+        epics:
+          - name: "Event Tracking System"
+            description: "Implement comprehensive event tracking"
+            team: "Data"
+            storyPoints: 34
+            features:
+              - name: "Custom Event Definition"
+                storyPoints: 13
+              - name: "Real-time Event Processing"
+                storyPoints: 21
+          - name: "Dashboard Redesign"
+            description: "Create modern analytics dashboard"
+            team: "Frontend"
+            storyPoints: 21
+            features:
+              - name: "Interactive Charts"
+                storyPoints: 13
+              - name: "Export Functionality"
+                storyPoints: 8
+
+  - name: "Q2 2025 - Growth"
+    description: "Scale platform and add advanced features"
+    outcomes:
+      - name: "Mobile Experience"
+        description: "Launch mobile applications"
+        teams: ["Mobile", "Backend"]
+        priority: "high"
+        epics:
+          - name: "iOS App Development"
+            description: "Native iOS application"
+            team: "Mobile"
+            storyPoints: 55
+            features:
+              - name: "Core App Framework"
+                storyPoints: 21
+              - name: "Push Notifications"
+                storyPoints: 13
+              - name: "Offline Sync"
+                storyPoints: 21
+          - name: "Mobile API"
+            description: "API optimized for mobile clients"
+            team: "Backend"
+            storyPoints: 34
+            features:
+              - name: "GraphQL Implementation"
+                storyPoints: 21
+              - name: "Rate Limiting"
+                storyPoints: 8
+              - name: "Caching Layer"
+                storyPoints: 5
+      
+      - name: "Advanced Integrations"
+        description: "Connect with third-party services"
+        teams: ["Platform", "Integrations"]
+        priority: "medium"
+        epics:
+          - name: "Webhook System"
+            description: "Flexible webhook infrastructure"
+            team: "Platform"
+            storyPoints: 21
+            features:
+              - name: "Webhook Management UI"
+                storyPoints: 13
+              - name: "Retry Mechanism"
+                storyPoints: 8
+          - name: "Third-party Connectors"
+            description: "Pre-built integrations"
+            team: "Integrations"
+            storyPoints: 34
+            features:
+              - name: "Slack Integration"
+                storyPoints: 13
+              - name: "Salesforce Connector"
+                storyPoints: 21
+
+dependencies:
+  - from: "OAuth2 Support"
+    to: "Email Verification"
+    type: "blocks"
+  - from: "Auth Refactor"
+    to: "Social Login Integration"
+    type: "enables"
+  - from: "Custom Event Definition"
+    to: "Real-time Event Processing"
+    type: "prerequisite"
+  - from: "Mobile API"
+    to: "Core App Framework"
+    type: "blocks"
+  - from: "GraphQL Implementation"
+    to: "Offline Sync"
+    type: "enables"
+  - from: "Webhook System"
+    to: "Third-party Connectors"
+    type: "prerequisite"
+
+metadata:
+  version: "1.0"
+  lastUpdated: "2025-01-15"
+  owner: "Product Team"
+  description: "Sample roadmap demonstrating the roadmap-lane CLI tool capabilities"
