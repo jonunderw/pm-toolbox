@@ -1,0 +1,15 @@
+Issue key,Summary,Issue Type,Status,Epic Name,Resolved,Assignee,Components,Labels,QA Owner
+PROJ-1001,Implement user authentication with OAuth2,Story,Done,User Management System,2025-01-15,John Smith,Authentication,security oauth,Jane Doe
+PROJ-1002,Create user profile management interface,Story,Done,User Management System,2025-01-16,Alice Johnson,Frontend,ui profile,Jane Doe
+PROJ-1003,Setup database schema for user profiles,Task,Done,User Management System,2025-01-14,Bob Wilson,Database,,
+PROJ-1004,Fix login timeout issue,Bug,Done,User Management System,2025-01-17,Carol Brown,Authentication,bug hotfix,Jane Doe
+PROJ-2001,Implement payment processing workflow,Story,In Progress,Payment Integration,2025-01-20,David Lee,Payments,payment stripe,Mike Chen
+PROJ-2002,Add payment history dashboard,Story,To Do,Payment Integration,,Sarah Davis,Frontend,dashboard payments,Mike Chen
+PROJ-2003,Setup Stripe webhook integration,Task,Done,Payment Integration,2025-01-18,Tom Anderson,Integration,webhook api,
+PROJ-2004,Fix duplicate payment charges bug,Bug,Done,Payment Integration,2025-01-19,Emma White,Payments,bug critical,Mike Chen
+PROJ-3001,Optimize database query performance,Story,Done,Performance Improvements,2025-01-21,Frank Miller,Database,performance optimization,Alex Kim
+PROJ-3002,Implement caching layer with Redis,Task,Done,Performance Improvements,2025-01-22,Grace Taylor,Backend,cache redis,
+PROJ-3003,Fix memory leak in background jobs,Bug,Done,Performance Improvements,2025-01-23,Henry Clark,Backend,bug memory,Alex Kim
+PROJ-4001,Create API documentation portal,Story,Done,Developer Experience,2025-01-24,Ivy Martinez,Documentation,docs api,Lisa Park
+PROJ-4002,Setup automated API testing suite,Task,Done,Developer Experience,2025-01-25,Jack Robinson,Testing,automation api,
+PROJ-4003,Fix API rate limiting configuration,Bug,In Progress,Developer Experience,,Kelly Thompson,Backend,bug api rate-limit,Lisa Park
