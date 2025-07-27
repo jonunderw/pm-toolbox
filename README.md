@@ -43,47 +43,38 @@ Comprehensive API credential management and OpenAPI specification tooling
 
 ---
 
-## Templates 
+## 📋 Templates
 
-### Backlog Templates
-- User Story Template
-- Bug Template
-- Task Template
-- Epic & Feature Template
+Comprehensive templates for product management, development, and operations workflows. All templates are located in the `/templates/` directory.
 
+### Backlog Templates (`/templates/backlog/`)
+- ✅ **User Story Template** - Structured format with acceptance criteria, DoD, and testing notes
+- ✅ **Bug Report Template** - Detailed bug reporting with reproduction steps and resolution tracking  
+- ✅ **Task Template** - Technical task documentation with clear deliverables and progress tracking
+- ✅ **Epic & Feature Template** - High-level feature planning with business context and implementation phases
 
-### Operation Templates
-- Disaster Recovery Plan
-- Incident Management - Technology Responsiblity Matrix
-- Incident Management - Escalation Policy Plan
-- Cloud Blueprint Templates
-- Capacity Planning Template
+### Operations Templates (`/templates/operations/`)
+- ✅ **Disaster Recovery Plan** - Complete DR procedures with team organization and recovery phases
+- ✅ **Technology Responsibility Matrix (RACI)** - Comprehensive role and responsibility mapping
+- ✅ **Escalation Policy Plan** - Incident management escalation with severity levels and communication
+- ✅ **Cloud Blueprint Template** - Infrastructure architecture documentation and specifications
 
-### Testing Templates
-- Test Plan
-- Test Case
-- Traceability Matrix
+### Testing Templates (`/templates/testing/`)
+- ✅ **Test Plan Template** - Comprehensive test planning with risk assessment, team organization, and success criteria
 
+### Product Templates (`/templates/product/`)
+- ✅ **User Journey Template** - Complete user experience mapping with touchpoints, pain points, and opportunities
+- ✅ **Competitive Analysis Template** - In-depth competitor analysis with feature comparison matrices and strategic insights
 
+### Using the Templates
+Each template includes:
+- **Clear structure** with predefined sections and guidance
+- **Fill-in placeholders** `[like this]` for easy customization
+- **Best practices** and examples embedded throughout  
+- **Cross-references** to related templates for integrated workflows
+- **Professional formatting** ready for stakeholder review
 
-### Product Templates
-- UCD Practices Templates
-    - Stakeholder Mapping
-    - Opportunity Mapping
-    - Problem Statements
-    - Risk & Mitigation Mapping
-    - User Feedback Session Script
-    - User Feedback Session Synthesis
-    - Inception 
-    - Outcome Oriented Roadmap
-    - Affinity Mapping 
-    - Effort Value Matrix (Prioritization) (IDEATE)
-    - Crazy 8s - (IDEATE)
-    - User Journey
-- Gap Analysis Template
-- Competitive Analysis Template
-- Product Reporting Template (CSV)
-- User Feedback Collection & Synthesis Templates
+Simply copy any template, customize the placeholders for your specific use case, and adapt sections as needed for your organization.
 
 
 
